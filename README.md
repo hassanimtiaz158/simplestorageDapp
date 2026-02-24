@@ -2,6 +2,8 @@
 
 This project is a full-stack decentralized application (DApp) built on Ethereum. It demonstrates how to create, test, deploy, and interact with a smart contract using a modern Web3 development stack.
 
+![SimpleStorage Screenshot](images/Capture.png)
+
 ## 🚀 Tech Stack Used
 
 ### 🧠 Smart Contract Layer
