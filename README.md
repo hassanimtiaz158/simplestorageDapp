@@ -1,6 +1,6 @@
 # SimpleStorage Full-Stack DApp
 
-This project is a full-stack decentralized application (DApp) built on Ethereum. It demonstrates how to create, test, deploy, and interact with a smart contract using a modern Web3 development stack.
+This project is a Full-Stack Decentralized application (DApp) built on Ethereum. It demonstrates how to create, test, deploy, and interact with a smart contract using a modern Web3 development stack.
 
 ![SimpleStorage Screenshot](images/Capture.PNG)
 
